@@ -1,7 +1,3 @@
-//
-//  hw2.cpp
-//  Graphics
-//
 //  Created by Samson Batula on 2/23/23.
 
 // Creator: Samson Batula
@@ -13,7 +9,7 @@
 *
 * E-mail:  sobatula@syr.edu
 *
-* Assignment:  Assignment 2
+* Assignment:  Project 2
 *
 * Environment/Compiler:  Xcode 14.1
 *
